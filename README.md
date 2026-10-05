@@ -6,7 +6,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=umed-khasanov&color=blue&style=flat)
 
-Welcome to my GitHub! I'm a backend-focused developer who enjoys building clean, secure and well-structured APIs with Java and Spring Boot. With a background in UI/UX design, I care about how software works *and* how it feels to use. Currently looking for a **6-month work placement from January 2027**.
+Welcome to my GitHub! I'm a backend-focused developer who enjoys building clean, secure and well-structured APIs with Java and Spring Boot. With a background in UI/UX design, I care about how software works *and* how it feels to use. Currently looking for a ** Work placement from January 2027**.
 
 ---
 
