@@ -40,7 +40,7 @@ Welcome to my GitHub! I'm a backend-focused developer who enjoys building clean,
 I'm always open to placement opportunities, collaborations and conversations about backend development. Feel free to reach out!
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-1D5BE6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://umedkhasanov.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile](https://www.linkedin.com/notifications/?filter=all))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:humed256@gmail.com)
 
 ---
