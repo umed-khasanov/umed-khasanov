@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&height=220&color=141414&text=Umedchon%20Khasanov&fontColor=F4F1EA&fontSize=58&fontAlign=8&fontAlignY=42&desc=Java%20backend%20%C2%B7%20UI%2FUX%20design%20%C2%B7%20Unity%20XR&descSize=22&descAlign=8&descAlignY=66" alt="Umedchon Khasanov – Java backend, UI/UX, Unity XR" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=220&color=141414&text=Umedchon%20Khasanov&fontColor=F4F1EA&fontSize=54&fontAlign=50&fontAlignY=42&desc=Java%20backend%20%C2%B7%20UI%2FUX%20design%20%C2%B7%20Unity%20XR&descSize=22&descAlign=50&descAlignY=66" alt="Umedchon Khasanov – Java backend, UI/UX, Unity XR" width="100%">
 
 **BSc (Hons) Creative Digital Computing, TUS Midwest, Limerick** &nbsp;/&nbsp; Open to work placements from January 2027
 
