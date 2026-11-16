@@ -1,28 +1,41 @@
 ## Hi there, I'm Umedchon Khasanov 👋
 
-📍 Based in Limerick & Cork, Ireland | 🎓 Creative Digital Computing student at TUS
+📍 Based in Limerick & Cork, Ireland | 🎓 BSc Creative Digital Computing student at TUS Midwest
 
-*Java Backend Developer | Spring Boot | REST APIs | PostgreSQL | UI/UX*
+*Java Backend Developer | Spring Boot | REST APIs | PostgreSQL | UI/UX Design | Unity XR*
 
 ![Profile views](https://komarev.com/ghpvc/?username=umed-khasanov&color=blue&style=flat)
 
-Welcome to my GitHub! I'm a backend-focused developer who enjoys building clean, secure and well-structured APIs with Java and Spring Boot. With a background in UI/UX design, I care about how software works *and* how it feels to use. Currently looking for a **Work placement from January 2027**.
+Welcome to my GitHub! I'm a student with a broad creative-tech background: my main focus is **Java backend development**, building clean, secure and well-structured APIs with Spring Boot, and I also work in **UI/UX design** and **Unity VR**. I care about how software works *and* how it feels to use. Currently looking for a **work placement from January 2027**.
 
 ---
 
 ### 🛠️ Technologies & Tools
 
+**Backend**
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,maven,git,github,js,html,css,vue,tailwind,aws,figma" />
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,maven,git,github,aws" />
+</p>
+
+**Frontend, Design & XR**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,html,css,vue,tailwind,figma,unity,cs" />
 </p>
 
 ---
 
 ### 🚀 Featured Projects
 
+**Backend**
 - **[TicketStream](https://github.com/umed-khasanov/TicketStream-Secure-Ticket-Booking-REST-API)** – Secure ticket booking REST API with Spring Boot 4, PostgreSQL and JWT authentication
 - **[GradeTracker](https://github.com/umed-khasanov/gradetracker)** – REST API for managing university grades with a layered architecture
+
+**Design & XR**
 - **[Portfolio](https://github.com/umed-khasanov/umedkhasanov)** – My personal website built with Vue.js and Tailwind CSS
+- **[A2-Superhot](https://github.com/umed-khasanov/A2-Superhot)** – Unity VR prototype for Meta Quest 2 (XR Interaction Toolkit)
+- **[Locomotion Comfort Study](https://github.com/umed-khasanov/vr-locomotion-comfort-study)** – Unity XR practical comparing teleport and smooth locomotion
 
 ---
 
@@ -37,10 +50,11 @@ Welcome to my GitHub! I'm a backend-focused developer who enjoys building clean,
 
 ### 🌟 Let's Connect!
 
-I'm always open to placement opportunities, collaborations and conversations about backend development. Feel free to reach out!
+I'm always open to placement opportunities, collaborations and conversations about backend development, design and VR. Feel free to reach out!
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-1D5BE6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://umedkhasanov.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1D5BE6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://umedkhasanov.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umed-khasanov-6b5770303/)
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/umedkhasanov)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:humed256@gmail.com)
 
 ---
@@ -50,10 +64,12 @@ I'm always open to placement opportunities, collaborations and conversations abo
 I write Java by day and work as a chef in a professional kitchen by night. Both are about clean structure, good timing and not burning anything. 🍳
 
 ```java
-public class SoftwareEngineer {
+public class Student {
     private final String name = "Umedchon Khasanov";
-    private final String role = "Java Backend Developer";
+    private final String degree = "BSc Creative Digital Computing, TUS Midwest";
+    private final String focus = "Java Backend Development";
     private final String[] stack = {"Java", "Spring Boot", "PostgreSQL", "Docker"};
+    private final String[] also = {"UI/UX Design", "Unity XR", "Vue"};
     private final String status = "Open to placements from January 2027";
 }
 ```
